@@ -1,0 +1,6 @@
+Added Component: Designator=TP?(TEST_POINT)
+Added Component: Designator=TP?(TEST_POINT)
+Add Net: Net with name "USB_DN" already exists
+Add Net: Net with name "USB_DP" already exists
+Added Member To Class: ClassName=USB_port Member=Component TP? TP
+Added Member To Class: ClassName=USB_port Member=Component TP? TP

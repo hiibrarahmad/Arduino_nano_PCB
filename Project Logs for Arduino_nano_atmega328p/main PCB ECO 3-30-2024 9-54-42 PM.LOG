@@ -1,0 +1,5 @@
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "USB_DN" already exists
+Add Net: Net with name "USB_DP" already exists
+Added Member To Class: ClassName=Uart Member=Component R? 1K
+Added Member To Class: ClassName=USB_port Member=Component TP1 TP

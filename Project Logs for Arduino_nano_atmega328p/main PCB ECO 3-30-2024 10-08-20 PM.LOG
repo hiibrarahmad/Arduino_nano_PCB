@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=USB_DP Pin=U1-15
+Added Pin To Net: NetName=USB_DN Pin=U1-16
+Add Net: Net with name "NetR?_2" already exists
+Change Class Name : Old Net Name=U_Uart New Net Name=Uart
+Change Class Name : Old Net Name=U_USB_port New Net Name=USB_port
+Added Member To Class: ClassName=Uart Member=Component R? 1K
