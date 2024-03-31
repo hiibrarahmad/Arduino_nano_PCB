@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RP1_7 Pin=RX-1
+Removed Pin From Net: NetName=RP2_3 Pin=RX-2
+Change Component Footprint: Designator=RX Old Footprint=KPT2012SURCK New Footprint=LEDM2012X120N
+Change Component Comment : Designator=RX Old Comment=KPT-2012SURCK New Comment=KPT-2012SGC
+Change component parameters: Designator = "RX" ("RX"); Footprint = "KPT2012SURCK"; UniqueID = "\KWABSPSK" ("\KWABSPSK")
+Change component parameters (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/KPT-2012SGC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Farnell Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Farnell Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KPT-2012SGC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RP2_3 Pin=RX-1
+Added Pin To Net: NetName=RP1_7 Pin=RX-2

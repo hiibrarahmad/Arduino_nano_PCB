@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=PWR Old Footprint=LEDM2012X120N New Footprint=LEDC2012X75N
+Change Component Footprint: Designator=RX Old Footprint=LEDM2012X120N New Footprint=LEDC2012X75N
+Change Component Footprint: Designator=TX Old Footprint=LEDM2012X120N New Footprint=LEDC2012X75N
+Change Component Comment : Designator=PWR Old Comment=KPT-2012SGC New Comment=KPT-2012YC
+Change Component Comment : Designator=RX Old Comment=KPT-2012SGC New Comment=KPT-2012YC
+Change Component Comment : Designator=TX Old Comment=KPT-2012SGC New Comment=KPT-2012YC
+Change component parameters: Designator = "PWR" ("PWR"); Footprint = "LEDM2012X120N"; UniqueID = "\WGPWZZQG" ("\WGPWZZQG")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/KPT-2012YC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Newark Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Newark Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "RX" ("RX"); Footprint = "LEDM2012X120N"; UniqueID = "\YETNQMOC" ("\YETNQMOC")
+Change component parameters (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/KPT-2012YC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Newark Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Newark Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TX" ("TX"); Footprint = "LEDM2012X120N"; UniqueID = "\GKHCALYA" ("\GKHCALYA")
+Change component parameters (AddParameter): Name = "COLOR"; Value = "GREEN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/KPT-2012YC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "KPT-2012YC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Newark Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Newark Price/Stock"; Value = ""; VariantName = "[No Variations]"
