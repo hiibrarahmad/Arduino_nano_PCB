@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=PB? NewDesignator=PB400
+Change Component Designator: OldDesignator=R? NewDesignator=R400
+Add Pin To Net: Unknown Pin: Pin PB400-1
+Add Pin To Net: Unknown Pin: Pin PB400-2

@@ -1,0 +1,25 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=ATMEGA328P.SchDoc
+UniqueIDPath0=
+SheetNumber0=4
+DocumentName1=EXPENSION.SchDoc
+UniqueIDPath1=
+SheetNumber1=5
+DocumentName2=main.SchDoc
+UniqueIDPath2=
+SheetNumber2=0
+DocumentName3=Power.SchDoc
+UniqueIDPath3=
+SheetNumber3=3
+DocumentName4=Uart.SchDoc
+UniqueIDPath4=
+SheetNumber4=2
+DocumentName5=USB_port.SchDoc
+UniqueIDPath5=
+SheetNumber5=1
+
+

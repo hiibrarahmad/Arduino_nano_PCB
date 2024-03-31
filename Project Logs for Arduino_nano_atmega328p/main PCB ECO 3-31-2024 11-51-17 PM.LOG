@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=C300 NewDesignator=C301
+Change Component Designator: OldDesignator=C301 NewDesignator=C300
+Added Component: Designator=S400(SW_TS09-63-25-WT-160-SMT-TR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS09-63-25-WT-160-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S400-1
+Added Pin To Net: NetName=RESET Pin=S400-2
+Added Member To Class: ClassName=ATMEGA328P Member=Component S400 TS09-63-25-WT-160-SMT-TR

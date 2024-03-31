@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C200
+Change Component Designator: OldDesignator=C? NewDesignator=C201
+Add Component: Footprint Not Found SW_TL1015AF160QG
+Add Pin To Net: Unknown Pin: Pin S400-1
+Add Pin To Net: Unknown Pin: Pin S400-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC200_1
+Added Member To Class: ClassName=Uart Member=Component C201 0.1uF
+Add Class Member: Failed to add class member : Component S400 TL1015AF160QG

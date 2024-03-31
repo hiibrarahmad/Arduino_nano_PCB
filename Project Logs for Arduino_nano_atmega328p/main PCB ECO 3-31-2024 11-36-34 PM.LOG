@@ -1,0 +1,149 @@
+Removed Pin From Net: NetName=PD0 Pin=R401-1
+Removed Pin From Net: NetName=PD1 Pin=R402-1
+Removed Pin From Net: NetName=PB5 Pin=R403-1
+Removed Pin From Net: NetName=PB5 Pin=U400-7
+Removed Pin From Net: NetName=PB5 Pin=U401-1
+Removed Pin From Net: NetName=GND Pin=U401-2
+Removed Pin From Net: NetName=PB7 Pin=U401-3
+Removed Member From Class: ClassName=ATMEGA328P Member=R401
+Removed Member From Class: ClassName=ATMEGA328P Member=R402
+Removed Member From Class: ClassName=ATMEGA328P Member=R403
+Removed Member From Class: ClassName=ATMEGA328P Member=U401
+Change Component Footprint: Designator=C301 Old Footprint=CAPC1005X55N New Footprint=CAPMP7343X430N
+Change Component Footprint: Designator=DS400 Old Footprint=VISH-TLMY1000_V New Footprint=OSC_CSTCE16M0V53-R0
+Change Component Comment : Designator=C301 Old Comment=4.7uF New Comment=47uF
+Change Component Comment : Designator=DS400 Old Comment=TLMY1000-GS08 New Comment=CSTCE16M0V53-R0
+Change Component Designator: OldDesignator=DS400 NewDesignator=Y400
+Change Managed Component Library Link : Designator=Y400 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=406BC5B5-03C4-44FA-8A26-D1B047554FE8 New ItemGUID= Old RevisionGUID=E56D1793-A53D-4F71-875C-274DA5F61F41 New RevisionGUID=
+Change component parameters: Designator = "C301" ("C301"); Footprint = "CAPC1005X55N"; UniqueID = "\KWBDTKTO" ("\KWBDTKTO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AAA8000/AAA8000C62.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=16TQC47MW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created_Date"; Value = "2014-12-11 21:29:30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.079in (2.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "30017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP TANT 47uF ±20% 16V 2917 (7343 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "16TQC47MW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package_Case"; Value = "2917 (7343 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.287in L x 0.169in W (7.30mm x 4.30mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sorted_Value"; Value = "4.7E-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub_Type"; Value = "TANT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P16487TR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol Ref"; Value = "CAP_POL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55C to +105C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Updated_Date"; Value = "2024-02-04 20:00:42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage_Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C401" ("C401"); Footprint = "CAPC1005X55N"; UniqueID = "\UNGFCYWQ" ("\UNGFCYWQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "randy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created_Date"; Value = "2024-03-31 22:55:42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "30041"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 50V X7R 0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package_Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.063in L x 0.031in W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14105-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55C to +125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Updated By"; Value = "randy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Updated_Date"; Value = "2024-03-31 22:57:36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage_Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C402" ("C402"); Footprint = "CAPC1005X55N"; UniqueID = "\COAJLDAU" ("\COAJLDAU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "randy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created_Date"; Value = "2024-03-31 22:55:42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "30041"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 50V X7R 0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package_Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.063in L x 0.031in W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14105-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55C to +125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Updated By"; Value = "randy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Updated_Date"; Value = "2024-03-31 22:57:36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage_Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C403" ("C403"); Footprint = "CAPC1005X55N"; UniqueID = "\MOZXROFB" ("\MOZXROFB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "randy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created_Date"; Value = "2024-03-31 22:55:42"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "30041"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 50V X7R 0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C104K5RECAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package_Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.063in L x 0.031in W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "399-14105-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55C to +125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Updated By"; Value = "randy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Updated_Date"; Value = "2024-03-31 22:57:36"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage_Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DS400" ("Y400"); Footprint = "VISH-TLMY1000_V"; UniqueID = "\HMRNSTDC" ("\HMRNSTDC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CSTCE16M0V53-R0/Murata+Electronics+North+America/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CSTCE16M0V53-R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD-3 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CSTCE16M0V53-R0/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CSTCE16M0V53-R0/Murata+Electronics+North+America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D400-1
+Added Pin To Net: NetName=RP1_8 Pin=D400-2
+Add Pin To Net: Unknown Pin: Pin PB400-1
+Add Pin To Net: Unknown Pin: Pin PB400-2
+Added Pin To Net: NetName=PB5 Pin=R200-1
+Added Pin To Net: NetName=PD0 Pin=R400-1
+Added Pin To Net: NetName=PD1 Pin=R400-2
+Added Pin To Net: NetName=RP2_8 Pin=U200-1
+Added Pin To Net: NetName=RP2_7 Pin=U200-5
+Added Pin To Net: NetName=PB7 Pin=Y400-3
+Added Pin To Net: NetName=PB6 Pin=U400-7
+Added Pin To Net: NetName=PB6 Pin=Y400-1
+Added Net: Name=PB6

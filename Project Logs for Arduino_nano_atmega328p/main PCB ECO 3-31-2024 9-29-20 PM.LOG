@@ -1,0 +1,511 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Component: Designator=C2(CAPC1005X55N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/281/1/GRM155R61H104KE14_01A-1983917.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-01-18 17:32:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 50V X5R 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10697-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-03-12 20:30:58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1005X55N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/281/1/GRM155R61H104KE14_01A-1983917.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-01-18 17:32:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 50V X5R 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10697-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-03-12 20:30:58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPMP7343X430N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AAA8000/AAA8000C62.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=16TQC47MW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-12-11 21:29:30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.079in (2.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP TANT 47uF ±20% 16V 2917 (7343 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16TQC47MW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "2917 (7343 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.287in L x 0.169in W (7.30mm x 4.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "4.7E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub_Type"; Value = "TANT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16487TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "CAP_POL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-02-04 20:00:42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1005X55N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/281/1/GRM155R61H104KE14_01A-1983917.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-01-18 17:32:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 50V X5R 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10697-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-03-12 20:30:58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPMP7343X430N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AAA8000/AAA8000C62.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=16TQC47MW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-12-11 21:29:30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.079in (2.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP TANT 47uF ±20% 16V 2917 (7343 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16TQC47MW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "2917 (7343 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.287in L x 0.169in W (7.30mm x 4.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "4.7E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub_Type"; Value = "TANT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P16487TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "CAP_POL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-02-04 20:00:42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1005X55N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/281/1/GRM155R61H104KE14_01A-1983917.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-01-18 17:32:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 50V X5R 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10697-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-03-12 20:30:58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1005X55N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/281/1/GRM155R61H104KE14_01A-1983917.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-01-18 17:32:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 50V X5R 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM155R61H104KE14D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10697-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-03-12 20:30:58"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1005X55N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=C0402X5R100-104KNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "randy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2024-03-31 14:50:26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Venkel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "CAP CER 0.1uF ±10% 10V X5R 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0402X5R100-104KNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1E-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub_Type"; Value = "CER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2679-C0402X5R100-104KNPTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "CAP_NOPOL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "randy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-03-31 14:51:23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(FP-6_541-5056_01-4-MFG)
+Added Component: Designator=D4(FP-95400-MFG)
+Added Component: Designator=DS2(VISH-TLMY1000_V)
+Added Component: Designator=R3(RESC1608X84N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-12-05 20:48:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022in (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "RES 1K Ohm ±1% 1/10W 0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063in L x 0.031in W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KHRTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeff"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-01-01 19:23:57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1005X40N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1773204&amp;DocType=DS&amp;DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=CRG0402F1K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-02-03 22:13:57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016in (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "RES 1K Ohm ±1% 1/16W 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRG0402F1K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A121534TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeff"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-01-04 21:32:37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1005X40N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1773204&amp;DocType=DS&amp;DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=CRG0402F1K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-02-03 22:13:57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016in (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "RES 1K Ohm ±1% 1/16W 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRG0402F1K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A121534TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeff"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-01-04 21:32:37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1005X40N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1773204&amp;DocType=DS&amp;DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=CRG0402F1K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-02-03 22:13:57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016in (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "RES 1K Ohm ±1% 1/16W 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRG0402F1K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A121534TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeff"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-01-04 21:32:37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1005X40N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1773204&amp;DocType=DS&amp;DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Part Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/products/en?keywords=CRG0402F1K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_Date"; Value = "2014-02-03 22:13:57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016in (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "30012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Description"; Value = "RES 1K Ohm ±1% 1/16W 0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRG0402F1K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package_Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Status"; Value = "New"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039in L x 0.020in W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sorted_Value"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A121534TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Ref"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeff"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55C to +155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated By"; Value = "rclemmons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Updated_Date"; Value = "2024-01-04 21:32:37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SW_TL1015AF160QG
+Added Component: Designator=TB?(SHIELD_ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(MP04A_M)
+Added Component: Designator=U3(FP-32M1-A-IPC_C)
+Added Component: Designator=U4(MURA-CSTCE_V-3_V)
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=5V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin DS2-2
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=5V Pin=R4-1
+Add Pin To Net: Unknown Pin: Pin S1-1
+Added Pin To Net: NetName=GND Pin=TB?-4
+Added Pin To Net: NetName=5V Pin=TB?-27
+Added Pin To Net: NetName=GND Pin=TB?-29
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=USB_DP Pin=U1-15
+Added Pin To Net: NetName=USB_DN Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=5V Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U4-2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetDS?_1 New Net Name=NetDS1_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR1_2
+Added Pin To Net: NetName=3V3 Pin=TB?-17
+Added Net: Name=3V3
+Added Pin To Net: NetName=AREF Pin=C9-1
+Added Pin To Net: NetName=AREF Pin=TB?-18
+Added Net: Name=AREF
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD3_2 Pin=R3-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetDS2_1 Pin=R7-2
+Added Net: Name=NetDS2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-22
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=PB0 Pin=TB?-11
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=TB?-12
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=TB?-13
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=TB?-14
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=TB?-15
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=R7-1
+Added Pin To Net: NetName=PB5 Pin=TB?-16
+Added Net: Name=PB5
+Added Net: Name=PB7
+Added Pin To Net: NetName=PC0 Pin=TB?-19
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=TB?-20
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=TB?-21
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=TB?-22
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=TB?-23
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=TB?-24
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=TB?-25
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=TB?-26
+Added Net: Name=PC7
+Added Pin To Net: NetName=PD0 Pin=R5-1
+Added Pin To Net: NetName=PD0 Pin=TB?-1
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=R6-1
+Added Pin To Net: NetName=PD1 Pin=TB?-2
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=TB?-5
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=TB?-6
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=TB?-7
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=TB?-8
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=TB?-9
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=TB?-10
+Added Net: Name=PD7
+Added Pin To Net: NetName=RESET Pin=C2-2
+Added Pin To Net: NetName=RESET Pin=R4-2
+Added Pin To Net: NetName=RESET Pin=TB?-3
+Added Pin To Net: NetName=RESET Pin=TB?-28
+Added Net: Name=RESET
+Added Pin To Net: NetName=RX Pin=R5-2
+Added Pin To Net: NetName=RX Pin=U1-1
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=R6-2
+Added Pin To Net: NetName=TX Pin=U1-5
+Added Net: Name=TX
+Added Pin To Net: NetName=VIN Pin=TB?-30
+Added Net: Name=VIN
+Added Pin To Net: NetName=VUSUB Pin=C4-1
+Added Pin To Net: NetName=VUSUB Pin=C5-1
+Added Net: Name=VUSUB
+Added Class: Name=ATMEGA328P
+Added Class: Name=EXPENSION
+Added Class: Name=Power
+Added Member To Class: ClassName=Uart Member=Component C2 0.1uF
+Added Member To Class: ClassName=Uart Member=Component R2 1K
